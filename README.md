@@ -1,5 +1,5 @@
 # TB Detection
-Hosted App - [link](https://Tb-detection.streamlit.app)
+Hosted App - [link](https://iamamofa-tb-detection-tb-detection-appapp-xlqsyp.streamlit.app/)
 
 ## Overview
 This is an Omdena project for the Pune India local chapter - Early Detection of Tuberculosis.
