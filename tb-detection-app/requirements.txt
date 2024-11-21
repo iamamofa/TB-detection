@@ -1,0 +1,12 @@
+# Updated requirements for the project
+# Main dependencies
+streamlit
+numpy
+Pillow
+pyyaml
+opencv-python-headless
+tensorflow
+
+# Build tools
+setuptools
+wheel

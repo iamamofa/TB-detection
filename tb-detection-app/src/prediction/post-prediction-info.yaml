@@ -1,0 +1,29 @@
+tb:
+  symptoms:
+    - Persistent cough lasting more than 3 weeks
+    - Unexplained weight loss
+    - Night sweats
+    - Fever and chills
+    - Fatigue and weakness
+
+  treatment_measures:
+    - Anti-tuberculosis medication regimen (e.g., Rifampicin, Isoniazid)
+    - Regular follow-up appointments with a healthcare provider
+    - Nutritional support to enhance recovery
+    - Isolation to prevent spreading the infection
+    - Completion of the full treatment course as prescribed
+
+non_tb:
+  further_tests:
+    - Chest X-ray to evaluate lung condition
+    - Sputum culture to check for other infections
+    - CT scan for detailed imaging of the chest
+    - Blood tests for markers of infection and inflammation
+    - Bronchoscopy to examine airways if symptoms persist
+
+  precautions:
+    - Monitor symptoms regularly for any changes
+    - Avoid close contact with individuals at high risk for respiratory infections
+    - Maintain good hygiene practices, such as handwashing
+    - Follow up with a healthcare provider for ongoing evaluation
+    - Educate on potential signs of other respiratory diseases
