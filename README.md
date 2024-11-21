@@ -1,5 +1,5 @@
 # TB Detection
-Hosted App - [link](https://tuberculosis-detection-through-xray.streamlit.app)
+Hosted App - [link](https://Tb-detection.streamlit.app)
 
 ## Overview
 This is an Omdena project for the Pune India local chapter - Early Detection of Tuberculosis.
