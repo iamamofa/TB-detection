@@ -31,8 +31,8 @@ To run this application locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/priyagupta18/tuberculosis-detection-through-xray.git
-   cd tuberculosis-detection-through-xray/tb-detection-app
+   git clone https://github.com/iamamofa/TB-detection.git
+   cd TB-detection/tb-detection-app
 2. **Create a virtual environment (optional but recommended):**
 
    ```bash
