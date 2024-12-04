@@ -2,7 +2,7 @@
 Hosted App - [link](https://iamamofa-tb-detection-tb-detection-appapp-xlqsyp.streamlit.app/)
 
 ## Overview
-This is an Omdena project for the Pune India local chapter - Early Detection of Tuberculosis.
+The Early Detection of Tuberculosis.
 
 This repository contains a deep learning model built using TensorFlow and Keras to classify chest X-ray images as either "TB Positive" or "TB Negative." The model utilizes a pre-trained **ResNet50** architecture for feature extraction and is fine-tuned on a custom dataset. Additionally, a web application built with **Streamlit** is included, allowing users to upload X-ray images and receive predictions on whether the image shows tuberculosis.
 
