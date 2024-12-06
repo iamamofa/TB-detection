@@ -1,4 +1,4 @@
-# Tuberculosis Detection Using Lungs X-Ray Images
+# Tuberculosis Detection Using Lungs X-Ray Images and Multivariate Data
 
 This project is a web application that leverages machine learning techniques to detect tuberculosis (TB) from X-ray images. The application provides a user-friendly interface for uploading X-ray images and receiving instant diagnostic predictions.
 
@@ -10,6 +10,8 @@ This project is a web application that leverages machine learning techniques to 
 - User-friendly interface built with Streamlit.
 - Visual feedback on the prediction results.
 
+## Future Programs and Directions
+- 
 
 ## Usage
 
