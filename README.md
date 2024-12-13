@@ -8,6 +8,11 @@ This repository contains a deep learning model built using TensorFlow and Keras 
 
 ## Dataset
 The dataset consists of:
+-**Total Dataset** : 4600 images from **Kaggle**
+          |  |
+         ______
+         \    /
+          \  /
 - **TB Images**: 800 images labeled as positive for tuberculosis.
 - **Non-TB Images**: 3800 images labeled as negative for tuberculosis.
 
