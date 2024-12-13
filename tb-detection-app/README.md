@@ -11,7 +11,11 @@ This project is a web application that leverages machine learning techniques to 
 - Visual feedback on the prediction results.
 
 ## Future Programs and Directions
-- 
+- chest x-rays
+- age
+- socioeconomic status
+-  comorbidities
+-   radiological 
 
 ## Usage
 
