@@ -1,4 +1,5 @@
-# TB Detection
+# TB Detection----- : Leveraging AI in optimized detection of TB infections using predictive modelling with multivariate patient data
+
 Hosted App - [link](https://iamamofa-tb-detection-tb-detection-appapp-xlqsyp.streamlit.app/)
 
 ## Overview
