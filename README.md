@@ -7,14 +7,18 @@ The Early Detection of Tuberculosis.
 
 This repository contains a deep learning model built using TensorFlow and Keras to classify chest X-ray images as either "TB Positive" or "TB Negative." The model utilizes a pre-trained **ResNet50** architecture for feature extraction and is fine-tuned on a custom dataset. Additionally, a web application built with **Streamlit** is included, allowing users to upload X-ray images and receive predictions on whether the image shows tuberculosis.
 
+**Medium of Training Model**
+Google Colabs
+
 ## Dataset
 The dataset consists of:
--**Total Dataset** : 4600 images from **Kaggle**
+-**Total Dataset** :        4600 images from **Kaggle**
          
           |  |
          ______
          \    /
           \  /
+           \/
 - **TB Images**: 800 images labeled as positive for tuberculosis.
 - **Non-TB Images**: 3800 images labeled as negative for tuberculosis.
 
